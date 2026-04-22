@@ -1,2 +1,2 @@
 # StudyTracker
-Study Tracker website to help students control and track their studies.
+Study Tracker is a website that helps students control and track their studies.
