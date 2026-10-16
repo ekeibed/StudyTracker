@@ -21,5 +21,19 @@ for certificates or language exams.
 - Deployment: Docker
 - Later version: an AI service for generating practice exams
 
+  ## Planned Features
+- Register and log in
+- Create subjects with an exam date
+- Upload PDF documents and count their pages automatically
+- Calculate a daily page goal for each subject
+- Record pages studied and recalculate the goal
+- Dashboard showing progress and days left for every subject
+
+## Scope
+In scope (first version): the features listed above, PDF files only, web application.
+Out of scope (later versions): AI-generated practice exams, mobile app,
+notifications, calendar integration, sharing plans, non-PDF file types.
+
 ## Current Status
-Week 1 - Project definition and research.
+Week 2 - Requirements, scope, user stories and development plan completed.
+GitHub Issues created for requirements, database design, API design and project setup.
